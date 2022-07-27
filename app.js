@@ -30,6 +30,7 @@ bot.on('message', function (event) {
         text: '這是黃沐妍(小豬)'
       }, {
         type: 'uri',
+        label: 'View detail',
         uri: 'https://zh.m.wikipedia.org/zh-tw/%E9%BB%83%E6%B2%90%E5%A6%8D'
       }])
       break
@@ -40,6 +41,7 @@ bot.on('message', function (event) {
           text: '這是熊熊'
         }, {
           type: 'uri',
+          label: 'View detail',
           uri: 'https://zh.wikipedia.org/zh-tw/%E5%8D%93%E6%AF%93%E5%BD%A4'
         }
       ])
@@ -50,6 +52,7 @@ bot.on('message', function (event) {
         text: '這是周曉涵'
       }, {
         type: 'uri',
+        label: 'View detail',
         uri: 'https://moviecool.asia/person/qd_91hzgS'
       }])
       break
@@ -60,6 +63,7 @@ bot.on('message', function (event) {
           text: '這是邵雨薇'
         }, {
           type: 'uri',
+          label: 'View detail',
           uri: 'https://www.elle.com/tw/columnist/g36614244/ivy-shao-special-column-3/'
         }
       ])

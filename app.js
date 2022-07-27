@@ -53,7 +53,7 @@ bot.on('message', function (event) {
       }, {
         type: 'image',
         originalContentUrl: 'https://www.mirrormedia.com.tw/assets/images/20220406153519-4d420f4c75389fbdb31c792ff9201a8a-tablet.jpg',
-        previewImageUrl: ''
+        previewImageUrl: 'https://www.mirrormedia.com.tw/assets/images/20220406153519-4d420f4c75389fbdb31c792ff9201a8a-tablet.jpg'
       }])
       break
     case '邵雨薇':
@@ -64,7 +64,7 @@ bot.on('message', function (event) {
         }, {
           type: 'image',
           originalContentUrl: 'https://s.yimg.com/ny/api/res/1.2/WmZAkdsYA65ywKuU1GmRhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2022-01/a46673c0-7913-11ec-bfbf-4817f26d3544',
-          previewImageUrl: ''
+          previewImageUrl: 'https://s.yimg.com/ny/api/res/1.2/WmZAkdsYA65ywKuU1GmRhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2022-01/a46673c0-7913-11ec-bfbf-4817f26d3544'
         }
       ])
       break

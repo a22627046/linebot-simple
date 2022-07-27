@@ -27,44 +27,44 @@ bot.on('message', function (event) {
     case '黃沐妍':
       event.reply([{
         type: 'text',
-        text: '這是黃沐妍(小豬)'
+        text: '又搞不清楚誰是誰了嗎?😜 這是黃沐妍(小豬)'
       }, {
-        type: 'uri',
-        label: 'View detail',
-        uri: 'https://zh.m.wikipedia.org/zh-tw/%E9%BB%83%E6%B2%90%E5%A6%8D'
+        type: 'image',
+        originalContentUrl: 'https://media.vogue.com.tw/photos/626bbf47fd0ca32654b3f9e6/2:3/w_1920,c_limit/seanT174740Ls2%20%EF%BC%B3.jpg',
+        previewImageUrl: 'https://media.vogue.com.tw/photos/626bbf47fd0ca32654b3f9e6/2:3/w_1920,c_limit/seanT174740Ls2%20%EF%BC%B3.jpg'
       }])
       break
     case '熊熊':
       event.reply([
         {
           type: 'text',
-          text: '這是熊熊'
+          text: '又搞不清楚誰是誰了嗎?😜 這是熊熊'
         }, {
-          type: 'uri',
-          label: 'View detail',
-          uri: 'https://zh.wikipedia.org/zh-tw/%E5%8D%93%E6%AF%93%E5%BD%A4'
+          type: 'image',
+          originalContentUrl: 'https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/07/04/realtime/17879836.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=1050&exp=3600',
+          previewImageUrl: 'https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2022/07/04/realtime/17879836.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=1050&exp=3600'
         }
       ])
       break
     case '周曉涵':
       event.reply([{
         type: 'text',
-        text: '這是周曉涵'
+        text: '又搞不清楚誰是誰了嗎?😜 這是周曉涵'
       }, {
-        type: 'uri',
-        label: 'View detail',
-        uri: 'https://moviecool.asia/person/qd_91hzgS'
+        type: 'image',
+        originalContentUrl: 'https://www.mirrormedia.com.tw/assets/images/20220406153519-4d420f4c75389fbdb31c792ff9201a8a-tablet.jpg',
+        previewImageUrl: ''
       }])
       break
     case '邵雨薇':
       event.reply([
         {
           type: 'text',
-          text: '這是邵雨薇'
+          text: '又搞不清楚誰是誰了嗎?😜 這是邵雨薇'
         }, {
-          type: 'uri',
-          label: 'View detail',
-          uri: 'https://www.elle.com/tw/columnist/g36614244/ivy-shao-special-column-3/'
+          type: 'image',
+          originalContentUrl: 'https://s.yimg.com/ny/api/res/1.2/WmZAkdsYA65ywKuU1GmRhQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtjZj13ZWJw/https://s.yimg.com/os/creatr-uploaded-images/2022-01/a46673c0-7913-11ec-bfbf-4817f26d3544',
+          previewImageUrl: ''
         }
       ])
       break
